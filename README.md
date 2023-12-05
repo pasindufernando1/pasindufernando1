@@ -1,6 +1,6 @@
 Hey 👋 I'm Pasindu Fernando
 
-About me
+**About me**
 📚 I'm currently reading Computer Science(Hons) at UCSC
 🎯 Backend nerd | Competitive programmer
 🎲 Tennis player | Carrom player
