@@ -11,7 +11,7 @@
 ###
 
 <p align="left">📚 I'm currently a Computer Science(Hons) undergraduate at UCSC<br>
-  ✨ Current top performer among the university batch(GPA => 3.99/4)<br>💼 Software Engineering Intern @WSO2 (2023 November - Present)<br>🎯  Backend nerd | Competitive programmer <br>🎲 Volunteer | Tennis player | Carrom player</p>
+  ✨ Current top performer among the university batch(GPA => 3.99/4)<br>💼 Software Engineering Intern @WSO2 (2023 November - 2024 May)<br>🎯  Backend nerd | Competitive programmer <br>🎲 Volunteer | Tennis player | Carrom player</p>
 
 ###
 
