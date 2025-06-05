@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently a Computer Science(Hons) undergraduate at UCSC<br>
-  ✨ Current top performer among the university batch(GPA => 3.99/4)<br>💼 Software Engineering Intern @WSO2 (2023 November - 2024 May)<br>🎯  Backend nerd | Competitive programmer <br>🎲 Volunteer | Tennis player | Carrom player</p>
+<p align="left">📚 Computer Science(Hons) Graduate at UCSC<br>
+  ✨ Top performer among the university batch(GPA => 3.98/4)<br>💼 Software Engineer @WSO2 <br>🎯  Backend nerd | Competitive programmer <br>🎲 Volunteer | Tennis player | Carrom player</p>
 
 ###
 
