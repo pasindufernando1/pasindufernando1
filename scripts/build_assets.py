@@ -230,7 +230,9 @@ def build_hero():
         defs += (f'<clipPath id="{cid}"><rect x="{px}" y="{ry - 17}" width="0" height="24">'
                  f'<animate attributeName="width" values="{wv}" keyTimes="{kt}" calcMode="discrete" dur="{T}s" repeatCount="indefinite"/>'
                  f'</rect></clipPath>')
-        g.append(f'<text x="{px}" y="{ry}" font-family="{MONO}" font-size="17" fill="{TEXT}" clip-path="url(#{cid})">{escape(role)}</text>')
+        # textLength pins the rendered width to n*CW so the clip/cursor stay in sync in every browser
+        g.append(f'<text x="{px}" y="{ry}" font-family="{MONO}" font-size="17" fill="{TEXT}" clip-path="url(#{cid})" '
+                 f'textLength="{n * CW:.1f}" lengthAdjust="spacingAndGlyphs">{escape(role)}</text>')
         xs = ";".join(f"{px + float(w) + 2:.1f}" for w in ws)
         op = ";".join(["0"] + ["1"] * (n + 1) + ["0"])
         g.append(f'<rect x="{px}" y="{ry - 15}" width="9" height="19" fill="{CYAN}" opacity="0">'
