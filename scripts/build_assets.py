@@ -213,7 +213,7 @@ def build_hero():
              "Building the Ballerina Language Server",
              "Researching live VM migration · KVM/QEMU",
              "Backend systems · Developer tooling"]
-    T, slot, cps, CW, ry = 16.0, 4.0, 24, 8.4, 226
+    T, slot, cps, CW, ry = 16.0, 4.0, 24, 9.18, 226   # CW: measured ShareTech advance at 17px
     px = x0 + 2 * CW
     g.append(f'<text x="{x0}" y="{ry}" font-family="{MONO}" font-size="17" fill="{AMBER}">&gt;</text>')
     for i, role in enumerate(roles):
