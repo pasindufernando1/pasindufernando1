@@ -55,121 +55,6 @@ me := Engineer{
 }
 ```
 
-<!-- ═══════════════════════════ RESEARCH ═══════════════════════════ -->
-## 🔬 Research Spotlight
-
-<table>
-<tr>
-<td>
-
-### 🧠 Enhancing System Checkpoints for Seamless Fault-Tolerant Live Virtual Machine Migration
-
-<sub>🎓 BSc (Hons) in Computer Science — Undergraduate Thesis · University of Colombo School of Computing · June 2025</sub>
-
-Fault-tolerant live VM migration relies on **incremental checkpointing**: after the first round, only the memory pages that changed are copied to the checkpoint store. My research makes this capture **finer-grained and lighter** using two approaches:
-
-- 🧩 **Mem-Finer:** a model that sends only the *modified bytes inside a page* instead of the whole 4 KB page
-- 🗜️ **Lossless compression:** compressing modified pages with **Gzip, LZ4 and Zstd** before they're sent to the checkpoint store
-
-| Technique | Page content reduction |
-|:--|:--:|
-| 🧩 Mem-Finer | **51 – 69 %** |
-| ⚡ LZ4 | **69 – 72 %** |
-| 📦 Gzip | **78 – 79 %** |
-| 🔹 Zstd | **50 – 52 %** |
-
-> 🏁 **Mem-Finer** and **LZ4** performed best overall, with migration time, downtime, replication, performance and recovery overheads **similar to or lower than the baseline**.
-
-<img src="https://img.shields.io/badge/KVM-CC0000?style=flat-square&logo=linux&logoColor=white" alt="KVM" /> <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU" /> <img src="https://img.shields.io/badge/Live_Migration-4B32C3?style=flat-square" alt="Live Migration" /> <img src="https://img.shields.io/badge/Fault_Tolerance-2E7D32?style=flat-square" alt="Fault Tolerance" /> <img src="https://img.shields.io/badge/Checkpointing-0F766E?style=flat-square" alt="Checkpointing" /> <img src="https://img.shields.io/badge/Compression-6D28D9?style=flat-square" alt="Compression" />
-
-<a href="https://dl.ucsc.cmb.ac.lk/jspui/handle/123456789/4918"><img src="https://img.shields.io/badge/📄_Read_the_thesis-UCSC_Digital_Library-36BCF7?style=for-the-badge&labelColor=1a1b27" alt="Read the thesis" /></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════ OPEN SOURCE ═══════════════════════════ -->
-## 🌍 Open Source Contributions
-
-<p>I help build the developer tooling behind <b>Ballerina</b> and <b>WSO2 Integrator</b>: the language server, the VS Code experience and the docs developers use every day.</p>
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/ballerina-platform/ballerina-language-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ballerina-platform&repo=ballerina-language-server&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ballerina-language-server" /></a>
-  <br/>
-  <a href="https://github.com/ballerina-platform/ballerina-language-server/pulls?q=is%3Apr%20is%3Amerged%20author%3Apasindufernando1"><img src="https://img.shields.io/github/issues-search?query=repo%3Aballerina-platform/ballerina-language-server%20is%3Apr%20is%3Amerged%20author%3Apasindufernando1&label=merged%20PRs&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="merged PRs" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/ballerina-platform/ballerina-vscode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ballerina-platform&repo=ballerina-vscode&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ballerina-vscode" /></a>
-  <br/>
-  <a href="https://github.com/ballerina-platform/ballerina-vscode/pulls?q=is%3Apr%20is%3Amerged%20author%3Apasindufernando1"><img src="https://img.shields.io/github/issues-search?query=repo%3Aballerina-platform/ballerina-vscode%20is%3Apr%20is%3Amerged%20author%3Apasindufernando1&label=merged%20PRs&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="merged PRs" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/wso2/docs-integrator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wso2&repo=docs-integrator&theme=tokyonight&hide_border=true&description_lines_count=2" alt="docs-integrator" /></a>
-  <br/>
-  <a href="https://github.com/wso2/docs-integrator/pulls?q=is%3Apr%20is%3Amerged%20author%3Apasindufernando1"><img src="https://img.shields.io/github/issues-search?query=repo%3Awso2/docs-integrator%20is%3Apr%20is%3Amerged%20author%3Apasindufernando1&label=merged%20PRs&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="merged PRs" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/wso2/vscode-extensions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wso2&repo=vscode-extensions&theme=tokyonight&hide_border=true&description_lines_count=2" alt="vscode-extensions" /></a>
-  <br/>
-  <a href="https://github.com/wso2/vscode-extensions/pulls?q=is%3Apr%20is%3Amerged%20author%3Apasindufernando1"><img src="https://img.shields.io/github/issues-search?query=repo%3Awso2/vscode-extensions%20is%3Apr%20is%3Amerged%20author%3Apasindufernando1&label=merged%20PRs&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="merged PRs" /></a>
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🛠️ Personal Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 [VentureVerse](https://github.com/pasindufernando1/VentureVerse)
-<sub>Full-stack web platform</sub>
-
-A platform connecting entrepreneurs and investors, with secure auth, Stripe payments, real-time messaging over WebSockets, video meetings, scheduling and PDF reports.
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 [Sri-Tel](https://github.com/pasindufernando1/Sri-Tel)
-<sub>Microservices architecture</sub>
-
-A customer-care platform prototype for a telecom company, built as Spring Cloud microservices: service discovery, a config server, an API gateway and services for billing, payments, roaming, notifications and live chat.
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" /> <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat-square" alt="Eureka" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩸 [LIFELINE](https://github.com/pasindufernando1/LIFELINE-second-year-group-project-CS-Group-38-)
-<sub>Full-stack web application</sub>
-
-A blood donation management system linking donors, blood banks, hospitals and organisations, with donation campaigns, donor cards and badges, blood requests, inventory, payments, email alerts and PDF reports.
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MVC-555555?style=flat-square" alt="MVC" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ [Multithreaded Web Server in C](https://github.com/pasindufernando1/Multithreaded---Webserver-using-C)
-<sub>Systems programming</sub>
-
-An HTTP web server written from scratch in C using POSIX sockets and a pthreads thread pool. It handles concurrent clients and serves static HTML, CSS, JS, images, PDFs and video with the correct MIME types.
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/POSIX_Sockets-333333?style=flat-square" alt="POSIX Sockets" /> <img src="https://img.shields.io/badge/pthreads-333333?style=flat-square" alt="pthreads" /> <img src="https://img.shields.io/badge/HTTP-005A9C?style=flat-square" alt="HTTP" /> <img src="https://img.shields.io/badge/Make-427819?style=flat-square" alt="Make" />
-
-</td>
-</tr>
-</table>
-
 <!-- ═══════════════════════════ SKILLS ═══════════════════════════ -->
 ## 🧰 Tech Stack
 
@@ -244,6 +129,89 @@ An HTTP web server written from scratch in C using POSIX sockets and a pthreads 
   <br/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
+
+<!-- ═══════════════════════════ RESEARCH ═══════════════════════════ -->
+## 🔬 Research Spotlight
+
+<table>
+<tr>
+<td>
+
+### 🧠 Enhancing System Checkpoints for Seamless Fault-Tolerant Live Virtual Machine Migration
+
+<sub>🎓 BSc (Hons) in Computer Science — Undergraduate Thesis · University of Colombo School of Computing · June 2025</sub>
+
+Fault-tolerant live VM migration relies on **incremental checkpointing**: after the first round, only the memory pages that changed are copied to the checkpoint store. My research makes this capture **finer-grained and lighter** using two approaches:
+
+- 🧩 **Mem-Finer:** a model that sends only the *modified bytes inside a page* instead of the whole 4 KB page
+- 🗜️ **Lossless compression:** compressing modified pages with **Gzip, LZ4 and Zstd** before they're sent to the checkpoint store
+
+| Technique | Page content reduction |
+|:--|:--:|
+| 🧩 Mem-Finer | **51 – 69 %** |
+| ⚡ LZ4 | **69 – 72 %** |
+| 📦 Gzip | **78 – 79 %** |
+| 🔹 Zstd | **50 – 52 %** |
+
+> 🏁 **Mem-Finer** and **LZ4** performed best overall, with migration time, downtime, replication, performance and recovery overheads **similar to or lower than the baseline**.
+
+<img src="https://img.shields.io/badge/KVM-CC0000?style=flat-square&logo=linux&logoColor=white" alt="KVM" /> <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU" /> <img src="https://img.shields.io/badge/Live_Migration-4B32C3?style=flat-square" alt="Live Migration" /> <img src="https://img.shields.io/badge/Fault_Tolerance-2E7D32?style=flat-square" alt="Fault Tolerance" /> <img src="https://img.shields.io/badge/Checkpointing-0F766E?style=flat-square" alt="Checkpointing" /> <img src="https://img.shields.io/badge/Compression-6D28D9?style=flat-square" alt="Compression" />
+
+<a href="https://dl.ucsc.cmb.ac.lk/jspui/handle/123456789/4918"><img src="https://img.shields.io/badge/📄_Read_the_thesis-UCSC_Digital_Library-36BCF7?style=for-the-badge&labelColor=1a1b27" alt="Read the thesis" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🛠️ Personal Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [VentureVerse](https://github.com/pasindufernando1/VentureVerse)
+<sub>Full-stack web platform</sub>
+
+A platform connecting entrepreneurs and investors, with secure auth, Stripe payments, real-time messaging over WebSockets, video meetings, scheduling and PDF reports.
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [Sri-Tel](https://github.com/pasindufernando1/Sri-Tel)
+<sub>Microservices architecture</sub>
+
+A customer-care platform prototype for a telecom company, built as Spring Cloud microservices: service discovery, a config server, an API gateway and services for billing, payments, roaming, notifications and live chat.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" /> <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat-square" alt="Eureka" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 [LIFELINE](https://github.com/pasindufernando1/LIFELINE-second-year-group-project-CS-Group-38-)
+<sub>Full-stack web application</sub>
+
+A blood donation management system linking donors, blood banks, hospitals and organisations, with donation campaigns, donor cards and badges, blood requests, inventory, payments, email alerts and PDF reports.
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MVC-555555?style=flat-square" alt="MVC" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Multithreaded Web Server in C](https://github.com/pasindufernando1/Multithreaded---Webserver-using-C)
+<sub>Systems programming</sub>
+
+An HTTP web server written from scratch in C using POSIX sockets and a pthreads thread pool. It handles concurrent clients and serves static HTML, CSS, JS, images, PDFs and video with the correct MIME types.
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/POSIX_Sockets-333333?style=flat-square" alt="POSIX Sockets" /> <img src="https://img.shields.io/badge/pthreads-333333?style=flat-square" alt="pthreads" /> <img src="https://img.shields.io/badge/HTTP-005A9C?style=flat-square" alt="HTTP" /> <img src="https://img.shields.io/badge/Make-427819?style=flat-square" alt="Make" />
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
