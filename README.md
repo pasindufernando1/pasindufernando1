@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pasindu%20Fernando&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Choreo%20Labs%20%E2%80%A2%20Backend%20Nerd%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pasindu%20Fernando&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Choreo%20Labs%20%E2%80%A2%20Backend%20Nerd&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/pasindufernando1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Pasindu+Fernando;Software+Engineer+%40+Choreo+Labs+%F0%9F%92%BC;Backend+Enthusiast+%E2%9A%99%EF%B8%8F;Competitive+Programmer+%F0%9F%8F%86;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Pasindu+Fernando;Software+Engineer+%40+Choreo+Labs+%F0%9F%92%BC;Backend+Enthusiast+%E2%9A%99%EF%B8%8F;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,6 @@
 - ⚙️ Backend nerd who loves designing clean, scalable systems
 - 🔬 Final-year research deep in virtualization — **KVM / QEMU**
 - 🔭 Building developer tooling — contributor to the **Ballerina Language Server** & **Ballerina VS Code extension**
-- 🏆 Competitive programmer — I enjoy a good algorithmic puzzle
 - 🎾 Off the keyboard: volunteer, tennis player & carrom player
 
 </td>
