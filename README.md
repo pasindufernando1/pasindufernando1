@@ -26,6 +26,7 @@
 - 🎓 **Computer Science (Hons)** graduate — **UCSC**
 - ✨ Top performer of my university batch — **GPA 3.98 / 4.00**
 - ⚙️ Backend nerd who loves designing clean, scalable systems
+- 🔬 Final-year research deep in virtualization — **KVM / QEMU**
 - 🔭 Building developer tooling — contributor to the **Ballerina Language Server** & **Ballerina VS Code extension**
 - 🏆 Competitive programmer — I enjoy a good algorithmic puzzle
 - 🎾 Off the keyboard: volunteer, tennis player & carrom player
@@ -109,9 +110,15 @@ me := Engineer{
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
+<h4>🖥️ Virtualization & Systems</h4>
+<p>
+  <img src="https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=linux&logoColor=white" alt="KVM" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+</p>
+
 <h4>☁️ Cloud, DevOps & Tools</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux&perline=12" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&perline=12" alt="DevOps & Tools" />
   <br/>
   <img src="https://img.shields.io/badge/Choreo-FF7300?style=for-the-badge&logoColor=white" alt="Choreo" />
   <img src="https://img.shields.io/badge/Asgardeo-FF7300?style=for-the-badge&logoColor=white" alt="Asgardeo" />
@@ -122,31 +129,6 @@ me := Engineer{
   <img src="https://skillicons.dev/icons?i=figma,ps&perline=12" alt="Figma, Photoshop" />
   <br/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pasindufernando1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindufernando1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pasindufernando1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pasindufernando1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasindufernando1/pasindufernando1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasindufernando1/pasindufernando1/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/pasindufernando1/pasindufernando1/output/github-snake.svg" />
-  </picture>
 </p>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
