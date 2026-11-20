@@ -1,139 +1,159 @@
-<h2 align="left">Hello 👋  I'm Pasindu Fernando</h2>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pasindu%20Fernando&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Choreo%20Labs%20%E2%80%A2%20Backend%20Nerd%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+</p>
 
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 Computer Science(Hons) Graduate at UCSC<br>
-  ✨ Top performer among the university batch(GPA => 3.98/4)<br>💼 Software Engineer @WSO2 <br>🎯  Backend nerd | Competitive programmer <br>🎲 Volunteer | Tennis player | Carrom player</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pasindufdo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://github.com/pasindufernando1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Pasindu+Fernando;Software+Engineer+%40+Choreo+Labs+%F0%9F%92%BC;Backend+Enthusiast+%E2%9A%99%EF%B8%8F;Competitive+Programmer+%F0%9F%8F%86;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/pasindufdo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/pasindufernando1"><img src="https://img.shields.io/github/followers/pasindufernando1?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pasindufernando1&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile views" />
+</p>
 
-<h2 align="left">🔍 Skills</h2>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> About Me
 
-###
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<p align="left">🌟 Programming Languages</p>
+- 💼 **Software Engineer** at **Choreo Labs**
+- 🎓 **Computer Science (Hons)** graduate — **UCSC**
+- ✨ Top performer of my university batch — **GPA 3.98 / 4.00**
+- ⚙️ Backend nerd who loves designing clean, scalable systems
+- 🔭 Building developer tooling — contributor to the **Ballerina Language Server** & **Ballerina VS Code extension**
+- 🏆 Competitive programmer — I enjoy a good algorithmic puzzle
+- 🎾 Off the keyboard: volunteer, tennis player & carrom player
 
-###
+</td>
+<td width="40%" align="center" valign="middle">
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ballerina/ballerina-original.svg" height="40" alt="ballerina logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
 
-###
+</td>
+</tr>
+</table>
 
-<p align="left">🌟 Frontend Technologies</p>
+```go
+type Engineer struct {
+    Name     string
+    Role     string
+    Company  string
+    Loves    []string
+}
 
-###
+me := Engineer{
+    Name:    "Pasindu Fernando",
+    Role:    "Software Engineer",
+    Company: "Choreo Labs",
+    Loves:   []string{"Backend Systems", "Algorithms", "Tennis 🎾"},
+}
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-</div>
+<!-- ═══════════════════════════ SKILLS ═══════════════════════════ -->
+## 🛠️ Tech Stack
 
-###
+<h4>💻 Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" title="Java" />
+  <img src="./assets/ballerina.svg" height="48" alt="Ballerina" title="Ballerina" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" title="C" />
+  <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" title="Go" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=scala" height="48" alt="Scala" title="Scala" />
+  <img src="https://skillicons.dev/icons?i=r" height="48" alt="R" title="R" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
+<h4>⚙️ Backend & Microservices</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven,gradle&perline=12" alt="Spring, Node.js, Express, Maven, Gradle" />
+  <br/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+</p>
 
-###
+<h4>🧰 Developer Tooling</h4>
+<p>
+  <img src="https://img.shields.io/badge/Language_Server_Protocol-20B6B0?style=for-the-badge" alt="Language Server Protocol" />
+  <img src="https://img.shields.io/badge/VS_Code_Extensions-007ACC?style=for-the-badge" alt="VS Code Extensions" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+<h4>🎨 Frontend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui,bootstrap,jquery,threejs&perline=12" alt="Frontend" />
+</p>
 
-###
+<h4>📱 Mobile</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&perline=12" alt="Kotlin, Android Studio" />
+  <br/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+</p>
 
-<p align="left">🌟 Backend Technologies</p>
+<h4>🗄️ Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=12" alt="PostgreSQL, MySQL, MongoDB" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
 
-###
+<h4>☁️ Cloud, DevOps & Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux&perline=12" alt="DevOps & Tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/Choreo-FF7300?style=for-the-badge&logoColor=white" alt="Choreo" />
+  <img src="https://img.shields.io/badge/Asgardeo-FF7300?style=for-the-badge&logoColor=white" alt="Asgardeo" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-</div>
+<h4>🖌️ Design</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps&perline=12" alt="Figma, Photoshop" />
+  <br/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
-###
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Stats
 
-<p align="left">🌟 Database</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pasindufernando1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindufernando1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pasindufernando1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pasindufernando1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
 
-###
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasindufernando1/pasindufernando1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasindufernando1/pasindufernando1/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/pasindufernando1/pasindufernando1/output/github-snake.svg" />
+  </picture>
+</p>
 
-<p align="left">🌟 Libraries & API</p>
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.”</i>
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-</div>
-
-###
-
-<p align="left">🌟 Designing Tools</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+</p>
